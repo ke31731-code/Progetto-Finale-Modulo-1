@@ -3,11 +3,11 @@ Data,Negozio,Prodotto,Quantita,Prezzo_unitario,Incasso,Categoria
 2023-09-01,Roma,Laptop,3,899.0,2697.0,Informatica
 2023-09-01,Napoli,TV,4,649.9,2599.6,Elettrodomestici
 2023-09-02,Torino,Tablet,6,329.99,1979.94,Informatica
-2023-09-02,Firenze,Cuffie,11,89.9,988.9000000000001,Elettrodomestici
+2023-09-02,Firenze,Cuffie,11,89.9,988.90,Elettrodomestici
 2023-09-02,Milano,Smartphone,8,489.5,3916.0,Informatica
 2023-09-03,Roma,Laptop,2,950.0,1900.0,Informatica
 2023-09-03,Napoli,TV,5,599.0,2995.0,Elettrodomestici
-2023-09-03,Torino,Tablet,3,339.9,1019.6999999999999,Informatica
+2023-09-03,Torino,Tablet,3,339.9,1019.69,Informatica
 2023-09-04,Milano,Smartphone,7,510.0,3570.0,Informatica
 2023-09-04,Firenze,Cuffie,14,79.99,1119.86,Elettrodomestici
 2023-09-05,Roma,Laptop,4,920.0,3680.0,Informatica
@@ -18,7 +18,7 @@ Data,Negozio,Prodotto,Quantita,Prezzo_unitario,Incasso,Categoria
 2023-09-07,Roma,Laptop,1,880.0,880.0,Informatica
 2023-09-07,Napoli,TV,6,580.0,3480.0,Elettrodomestici
 2023-09-08,Milano,Smartphone,6,505.0,3030.0,Informatica
-2023-09-08,Torino,Tablet,7,319.99,2239.9300000000003,Informatica
+2023-09-08,Torino,Tablet,7,319.99,2239.93,Informatica
 2023-09-08,Firenze,Cuffie,9,85.0,765.0,Elettrodomestici
 2023-09-09,Roma,Laptop,3,940.0,2820.0,Informatica
 2023-09-09,Napoli,TV,4,610.0,2440.0,Elettrodomestici
